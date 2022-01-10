@@ -17,21 +17,3 @@ class Solution:
             else:
                 st.add(positive)
         return res
-
-#{ 
-#  Driver Code Starts
-#Initial Template for Python 3
-
-if __name__ == '__main__':
-    t=int(input())
-    for _ in range(t):
-        n=int(input())
-        arr=[int(x) for x in input().strip().split()]
-        res=Solution().findPairs(arr,n)
-        if len(res) == 0:
-            print(0)
-        else:    
-            for x in res:
-                print(x,end=' ')
-            print()
-# } Driver Code Ends
