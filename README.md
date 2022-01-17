@@ -8,6 +8,6 @@ This repository contains geekforgeeks POTD(Problem of the day) approaches and so
 | 12th Jan, 2022 | [Check if subtree](https://practice.geeksforgeeks.org/problems/check-if-subtree/1) | [Here](Check%20if%20subtree%20(12th%20Jan%202022)) |
 | 13th Jan, 2022 | [Revese first k elements of a queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | [Here](Reverse%20First%20K%20elements%20of%20Queue%20(13th%20Jan%202022)) |
 | 14th Jan, 2022 | [Add all greater values to every node in a BST](https://practice.geeksforgeeks.org/problems/add-all-greater-values-to-every-node-in-a-bst/1) | [Here](Add%20all%20greater%20values%20to%20every%20node%20in%20a%20BST%20(14th%20Jan%202022)) |
-| [15th Jan, 2022] | [Merge two binary Max heaps](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) | [Here](Merge%20two%20binary%20Max%20heaps(15th%20Jan%202022)) |
-| [16th Jan, 2022] | [Steps by Knight ](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) | [Here](Steps%20by%20Knight%20(16th%20Jan%202022)) |
-| [17th Jan, 2022] | [Palindrome Pairs](https://practice.geeksforgeeks.org/problems/palindrome-pairs/1) | [Here](Palindrome%20Pairs%20(17th%20Jan%202022)) |
+| 15th Jan, 2022 | [Merge two binary Max heaps](https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1) | [Here](Merge%20two%20binary%20Max%20heaps(15th%20Jan%202022)) |
+| 16th Jan, 2022 | [Steps by Knight ](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) | [Here](Steps%20by%20Knight%20(16th%20Jan%202022)) |
+| 17th Jan, 2022 | [Palindrome Pairs](https://practice.geeksforgeeks.org/problems/palindrome-pairs/1) | [Here](Palindrome%20Pairs%20(17th%20Jan%202022)) |
