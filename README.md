@@ -13,3 +13,4 @@ This repository contains geekforgeeks POTD(Problem of the day) approaches and so
 | 17th Jan, 2022 | [Palindrome Pairs](https://practice.geeksforgeeks.org/problems/palindrome-pairs/1) | [Here](Palindrome%20Pairs%20(17th%20Jan%202022)) |
 | 18th Jan, 2022 | [Maximum sum of Non-adjacent nodes ](https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) | [Here](Maximum%20sum%20of%20Non-adjacent%20nodes(18th%20Jan%202022)) |
 | 19th Jan 2022 | [Maximum sum of increasing order elements from n arrays](https://practice.geeksforgeeks.org/problems/maximum-sum-of-increasing-order-elements-from-n-arrays4848/1) | [Here](Maximum%20sum%20of%20increasing%20order%20elements%20from%20n%20arrays(19th%20Jan%202022)) |  
+| 20th Jan 2022 | [Binary number to decimal number](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | [Here](Binary%20number%20to%20decimal%20number%20(20th%20Jan%202022)) |
