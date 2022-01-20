@@ -12,3 +12,4 @@ This repository contains geekforgeeks POTD(Problem of the day) approaches and so
 | 16th Jan, 2022 | [Steps by Knight ](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1) | [Here](Steps%20by%20Knight%20(16th%20Jan%202022)) |
 | 17th Jan, 2022 | [Palindrome Pairs](https://practice.geeksforgeeks.org/problems/palindrome-pairs/1) | [Here](Palindrome%20Pairs%20(17th%20Jan%202022)) |
 | 18th Jan, 2022 | [Maximum sum of Non-adjacent nodes ](https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) | [Here](Maximum%20sum%20of%20Non-adjacent%20nodes(18th%20Jan%202022)) |
+| 19th Jan 2022 | [Maximum sum of increasing order elements from n arrays](https://practice.geeksforgeeks.org/problems/maximum-sum-of-increasing-order-elements-from-n-arrays4848/1) | [Here](Maximum%20sum%20of%20increasing%20order%20elements%20from%20n%20arrays(19th%20Jan%202022)) |  
