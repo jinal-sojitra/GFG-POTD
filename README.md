@@ -15,3 +15,4 @@ This repository contains geekforgeeks POTD(Problem of the day) approaches and so
 | 19th Jan 2022 | [Maximum sum of increasing order elements from n arrays](https://practice.geeksforgeeks.org/problems/maximum-sum-of-increasing-order-elements-from-n-arrays4848/1) | [Here](Maximum%20sum%20of%20increasing%20order%20elements%20from%20n%20arrays(19th%20Jan%202022)) |  
 | 20th Jan 2022 | [Binary number to decimal number](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | [Here](Binary%20number%20to%20decimal%20number%20(20th%20Jan%202022)) |
 | 21th Jan 2022 | [Leaves to DLL](https://practice.geeksforgeeks.org/problems/leaves-to-dll/1) | [Here](Leaves%20to%20DLL%20(21th%20Jan%202022)) |
+| 22nd Jan 2022 | [Distinct palindromic substrings](https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings5141/1) | [Here](Distinct%20palindromic%20substrings(22nd%20Jan%202022)) |
