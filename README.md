@@ -16,3 +16,4 @@ This repository contains geekforgeeks POTD(Problem of the day) approaches and so
 | 20th Jan 2022 | [Binary number to decimal number](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) | [Here](Binary%20number%20to%20decimal%20number%20(20th%20Jan%202022)) |
 | 21th Jan 2022 | [Leaves to DLL](https://practice.geeksforgeeks.org/problems/leaves-to-dll/1) | [Here](Leaves%20to%20DLL%20(21th%20Jan%202022)) |
 | 22nd Jan 2022 | [Distinct palindromic substrings](https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings5141/1) | [Here](Distinct%20palindromic%20substrings(22nd%20Jan%202022)) |
+| 23rd Jan 2022 | [Rearrange a string ](https://practice.geeksforgeeks.org/problems/rearrange-a-string4100/1) | [Here](Rearrange%20a%20string%20(23rd%20Jan%202022)) |
